@@ -17,5 +17,4 @@ n8n (self-hosted), Google Gemini API, Node.js
 3. Import the workflow .json file
 4. Add your own Gemini API key
 
-## Screenshots
-(add them here)
+
